@@ -1,0 +1,9 @@
+# ignore all files
+*.exe
+*.cache
+*.targets
+*.csproj
+*.dll
+*.pdb
+*.props
+*.json
